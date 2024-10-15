@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me 👋
+
+- 🌱 I’m currently learning about mordern world coding.
+- 👯 I’m looking for help with web3 and blockchain to hope that I will find a job in near future.
 
 <!--
 **rocksoftvn/rocksoftvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
